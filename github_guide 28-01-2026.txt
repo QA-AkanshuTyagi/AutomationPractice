@@ -1,4 +1,4 @@
-########################Create GitHub Account #######
+########################Create GitHub Account ########
 1.  Go to GitHub.com
 2. click on signup button 
 3. provide required info
